@@ -4,7 +4,7 @@ In this game the player is challenged to escape a doomed space ship.
 
 ## Contributors
 
-Contact me at codeletter7@gmail.com with questions or concerns.
+Contact me at lee.rice7@gmail.com with questions or concerns.
 
 ## License
 
